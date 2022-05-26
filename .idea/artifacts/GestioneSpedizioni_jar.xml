@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GestioneSpedizioni:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GestioneSpedizioni_jar</output-path>
+    <root id="archive" name="GestioneSpedizioni.jar">
+      <element id="module-output" name="GestioneSpedizioni" />
+    </root>
+  </artifact>
+</component>

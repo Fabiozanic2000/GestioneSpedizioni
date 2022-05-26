@@ -1,0 +1,4 @@
+Ho utilizzato il polimorfismo nelle classi che riguardano le spedizioni; vi è una classe astratta "Spedizione" dalla quale derivano due classi concrete "SpedizioneNormale" e "SpedizioneAssicurata".
+Il programma fa uso di due tipi di archivi, in cui ho utilizzato i generics; il primo è "Archivio" in cui è memorizzato un ArrayList di clienti, mentre il secondo è "ArrayConEliminazione" che contiene un ArrayList di spedizioni. Il fatto che il secondo possa contenere delle generiche spedizioni (è impossibile prevedere a tempo di scrittura del programma i tipi di spedizioni che verranno immessi dall'utente finale)ne causa il polimorfismo.
+
+L'utilizzo di due classi diverse per gli archivi (nonostante una erediti dall'altra) è dovuto al fatto che si possono eliminare spedizioni, ma non si possono eliminare i clienti.

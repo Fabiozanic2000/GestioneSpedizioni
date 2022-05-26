@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dati.archivi"},{"l":"dati.clienti"},{"l":"dati.spedizioni"},{"l":"grafica"},{"l":"grafica.amministratore"},{"l":"grafica.autenticazione"},{"l":"grafica.cliente"},{"l":"mainpkg"}];updateSearchResults();
